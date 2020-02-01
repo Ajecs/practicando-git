@@ -1,6 +1,6 @@
 # practicando-git
 
 
-#archivos
+# archivos
 
-#carpetas
+# carpetas
