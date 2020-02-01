@@ -1,1 +1,6 @@
 # practicando-git
+
+
+#archivos
+
+#carpetas
